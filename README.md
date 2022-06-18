@@ -1,2 +1,2 @@
 # vanilla-tutorial
-Created with CodeSandbox
+Learn the features of modern Javascript
